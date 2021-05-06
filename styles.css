@@ -75,7 +75,7 @@ header > h1 {
 
 .choice:hover{
     cursor: pointer;
-    background: radial-gradient(black, darkmagenta );
+    background: rgb(27, 27, 27);
     transition: all .5s ease;
 }
 #action-message{
